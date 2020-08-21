@@ -8,7 +8,7 @@ This repository contains "Gated Convolution", "Contextual Attention" and "Spectr
 - Numpy
 - Pytorch 1.0+
 ## Compared Results
-&emsp; &emsp; &emsp; **Original** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Masked_ori** &emsp; &emsp; &emsp; &emsp; **Offical(Tensorflow)** &emsp; &emsp; [**MMEditing(Pytorch)**](https://github.com/open-mmlab/mmediting) &emsp; &emsp; **Ours(Pytorch)**
+The following images are **Original**, **Masked_ori**, **Offical(Tensorflow)**, [**MMEditing(Pytorch)**](https://github.com/open-mmlab/mmediting), **Ours(Pytorch)**
 ### ![1_compare](./compare/compare_1.png)
 ### ![2_compare](./compare/compare_2.png)
 ### ![3_compare](./compare/compare_3.png)
