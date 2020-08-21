@@ -8,6 +8,7 @@ This repository contains "Gated Convolution", "Contextual Attention" and "Spectr
 - Numpy
 - Pytorch 1.0+
 ## Compared Results
+&emsp; &emsp; &emsp; **Original** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Masked_ori** &emsp; &emsp; &emsp; &emsp; **Offical(Tensorflow)** &emsp; &emsp; [**MMEditing(Pytorch)**](https://github.com/open-mmlab/mmediting) &emsp; &emsp; **Ours(Pytorch)**
 ### ![1_compare](./compare/compare_1.png)
 ### ![2_compare](./compare/compare_2.png)
 ### ![3_compare](./compare/compare_3.png)
@@ -24,7 +25,7 @@ Create the folders `test_data` and `test_data_mask`. Note that `test_data` and `
 ``` bash
 $ bash ./run_train.sh
 ``` 
-All training models and sample images will be saved in `./models/` and `./images/` respectively.
+All training models and sample images will be saved in `./models/` and `./samples/` respectively.
 ## Testing
 Download the pretrained model [here](https://drive.google.com/file/d/1uMghKl883-9hDLhSiI8lRbHCzCmmRwV-/view?usp=sharing) and put it in `./pretrained_model/`.
 * To test a model:
