@@ -2,12 +2,18 @@
 This is a Pytorch re-implementation for the paper [Free-Form Image Inpainting with Gated Convolution](https://arxiv.org/abs/1806.03589).  
 
 This repository contains "Gated Convolution", "Contextual Attention" and "Spectral Normalization"
-
 ## Requirement
 - Python 3
 - OpenCV-Python
 - Numpy
 - Pytorch 1.0+
+## Compared Results
+### ![1_compare](./compare/compare_1.png)
+### ![2_compare](./compare/compare_2.png)
+### ![3_compare](./compare/compare_3.png)
+### ![4_compare](./compare/compare_4.png)
+### ![5_compare](./compare/compare_5.png)
+### ![6_compare](./compare/compare_6.png)
 ## Dataset
 ### Training Dataset
 The training dataset is a collection of images from [Places365-Standard](http://places2.csail.mit.edu/download.html) which spatial sizes are larger than 512 * 512. (It will be more free to crop image with larger resolution during training)
