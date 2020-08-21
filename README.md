@@ -1,4 +1,4 @@
-## Deepfillv2_Pytorch
+## DeepFillv2_Pytorch
 This is a Pytorch re-implementation for the paper [Free-Form Image Inpainting with Gated Convolution](https://arxiv.org/abs/1806.03589).  
 
 This repository contains "Gated Convolution", "Contextual Attention" and "Spectral Normalization".
