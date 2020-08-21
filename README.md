@@ -1,6 +1,7 @@
 ## Deepfillv2_Pytorch
-This is a Pytorch re-implementation for the paper [Free-Form Image Inpainting with Gated Convolution](https://arxiv.org/abs/1806.03589).
-This repository contains 'Gated Convolution', 'Contextual Attention' and 'Spectral Normalization'
+This is a Pytorch re-implementation for the paper [Free-Form Image Inpainting with Gated Convolution](https://arxiv.org/abs/1806.03589).  
+
+This repository contains "Gated Convolution", "Contextual Attention" and "Spectral Normalization"
 
 ## Requirement
 - Python 3
@@ -25,6 +26,6 @@ Download the pretrained model [here](https://drive.google.com/file/d/1uMghKl883-
 $ bash ./run_test.sh
 ``` 
 ## Acknowledgments
-Part of the code is based upon [deepfillv2](https://github.com/zhaoyuzhi/deepfillv2).
-The code of 'Contextual Attention' is based upon [generative-inpainting-pytorch](https://github.com/daa233/generative-inpainting-pytorch).
+Part of the code is based upon [deepfillv2](https://github.com/zhaoyuzhi/deepfillv2).  
+The code of 'Contextual Attention' is based upon [generative-inpainting-pytorch](https://github.com/daa233/generative-inpainting-pytorch).  
 Thanks for their excellent works!
