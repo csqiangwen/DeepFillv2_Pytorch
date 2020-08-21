@@ -26,6 +26,6 @@ Download the pretrained model [here](https://drive.google.com/file/d/1uMghKl883-
 $ bash ./run_test.sh
 ``` 
 ## Acknowledgments
-Part of the code is based upon [deepfillv2](https://github.com/zhaoyuzhi/deepfillv2).  
+The main code is based upon [deepfillv2](https://github.com/zhaoyuzhi/deepfillv2).  
 The code of 'Contextual Attention' is based upon [generative-inpainting-pytorch](https://github.com/daa233/generative-inpainting-pytorch).  
 Thanks for their excellent works!
