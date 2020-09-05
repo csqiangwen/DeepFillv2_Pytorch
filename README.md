@@ -8,7 +8,7 @@ This repository contains "Gated Convolution", "Contextual Attention" and "Spectr
 - Numpy
 - Pytorch 1.0+
 ## Compared Results
-The following images are **Original**, **Masked_ori**, **Official(Tensorflow)**, [**MMEditing(Pytorch)**](https://github.com/open-mmlab/mmediting), **Ours(Pytorch)**.
+The following images are **Original**, **Masked_orig**, **Official(Tensorflow)**, [**MMEditing(Pytorch)**](https://github.com/open-mmlab/mmediting), **Ours(Pytorch)**.
 ### ![1_compare](./compare/compare_1.png)
 ### ![2_compare](./compare/compare_2.png)
 ### ![3_compare](./compare/compare_3.png)
@@ -34,7 +34,7 @@ $ bash ./run_test.sh
 ``` 
 ## Acknowledgments
 The main code is based upon [deepfillv2](https://github.com/zhaoyuzhi/deepfillv2).  
-The code of 'Contextual Attention' is based upon [generative-inpainting-pytorch](https://github.com/daa233/generative-inpainting-pytorch).  
+The code of "Contextual Attention" is based upon [generative-inpainting-pytorch](https://github.com/daa233/generative-inpainting-pytorch).  
 Thanks for their excellent works!
 ## Citation
 ```
