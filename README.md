@@ -36,7 +36,7 @@ $ bash ./run_test.sh
 The main code is based upon [deepfillv2](https://github.com/zhaoyuzhi/deepfillv2).  
 The code of "Contextual Attention" is based upon [generative-inpainting-pytorch](https://github.com/daa233/generative-inpainting-pytorch).  
 Thanks for their excellent works!  
-And Thanks for [Kuaishou Technology Co., Ltd](https://www.kuaishou.com/en) providing the hardware support to me.
+And Thanks for [Kuaishou Technology Co., Ltd](https://www.kuaishou.com/en) providing the hardware support to this project.
 ## Citation
 ```
 @article{yu2018generative,
